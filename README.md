@@ -7,7 +7,7 @@ A API realiza um CRUD de tópicos de um fórum e roda numa base em memória (h2)
 http://localhost:8080/
 
 ### Swagger (API Documentation)
-* url: http://localhost:8080/swagger-ui.html
+* http://localhost:8080/swagger-ui.html
 
 ### Endoint de autenticação
 * **POST** /auth - Autenticação do usuário por login e senha dele no banco de dados. A requisição deverá ser da seguinte forma:
