@@ -23,7 +23,7 @@ O resultado será um token Bearer a ser usado nos endpoints de negócio:
 ```
 
 
-### 3. Endoints de Negócio
+### 3. Endoints para o Recurso 'Tópico'
 * **GET** http://localhost:8080/topicos - Lista todos os tópicos do fórum;
 * **GET** http://localhost:8080/topicos/{id} - Consulta um tópico com o id passado na url;
 * **DELETE** http://localhost:8080/topicos/{id} - Deleta o tópico com o id passado na url;
