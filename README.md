@@ -3,7 +3,7 @@ Aplicação Desenvolvida nos cursos de Spring Boot (Parte 1 e 2) do Alura.
 
 A API realiza um CRUD de tópicos de um fórum e roda numa base em memória (h2) populada na execução da aplicação.
 
-###1. Swagger (API Documentation)
+### 1. Swagger (API Documentation)
 * http://localhost:8080/swagger-ui.html
 
 ### 2. Endoint de autenticação
