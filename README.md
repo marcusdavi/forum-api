@@ -4,7 +4,7 @@ Aplicação Desenvolvida nos cursos de Spring Boot (Parte 1 e 2) do Alura.
 A API realiza um CRUD de tópicos de um fórum e roda numa base em memória (h2) populada na execução da aplicação.
 
 ### Base Url
-http://localhost:8080/
+* http://localhost:8080/
 
 ### Swagger (API Documentation)
 * http://localhost:8080/swagger-ui.html
