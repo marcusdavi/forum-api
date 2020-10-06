@@ -33,7 +33,7 @@ O resultado será um token Bearer a ser usado nos endpoints de negócio:
 * **POST** /topicos - Cadastra um tópico;
 * **PUT** /topicos/{id} - Altera o tópico com o id passado na url.
 
-Observação 01: Passar na requisição o token: Bearer <token> gerado no endpoint de autenticação
+Observação 01: Passar na requisição o token gerado no endpoint de autenticação: Bearer <token>
 
 Observação 02: No POST e PUT também devem ser passados os dados de cadastro/alteração do tópico:
 ```
